@@ -6,12 +6,12 @@ LostFound+ is a JavaScript Expo and React Native project. The app helps students
 - Keval Pathak
 
 ## Main Features
-- 4+ screens with bottom tabs and nested stack navigation
-- Parameterized detail screen using `itemId`
-- AsyncStorage persistence for lost/found reports
-- Create, update, delete, display, and save reports
-- Loading, error, and empty states
-- Remote REST API integration using Random User API
+- Multi-screen mobile app with tab + stack navigation
+- Lost & found reporting system
+- AsyncStorage-based persistence
+- REST API integration
+- Full CRUD operations
+- Loading, error, and empty state handling
 
 ## Screens
 - Home Dashboard
