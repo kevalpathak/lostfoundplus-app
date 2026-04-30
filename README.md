@@ -1,13 +1,13 @@
-# LostFound+ Mobile App
+# # LostFound+ – React Native Mobile App
 LostFound+ mobile app built with React Native (Expo), featuring item reporting, search, AsyncStorage persistence, and REST API integration.
 
 react-native
 expo
 mobile-app
 javascript
+frontend
 asyncstorage
 rest-api
-project
 
 ## Devloped By
 - Keval Pathak
@@ -27,6 +27,13 @@ project
 - Item Details
 - Saved Reports
 - Profile / Contribution Summary
+
+## Tech Stack
+
+- React Native (Expo)
+- JavaScript
+- AsyncStorage
+- REST API
 
 ## Installation
 ```bash
