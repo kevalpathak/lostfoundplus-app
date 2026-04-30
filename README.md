@@ -1,6 +1,5 @@
 # LostFound+ Mobile App
-
-LostFound+ is a JavaScript Expo and React Native project. The app helps students report lost and found items, save important reports, and manage item information clearly on mobile.
+LostFound+ mobile app built with React Native (Expo) featuring item reporting, search, AsyncStorage persistence, and REST API integration.
 
 ## Devloped By
 - Keval Pathak
